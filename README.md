@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0493-reverse-pairs](https://github.com/kartavyamantri/DSA-Questions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/0948-sort-an-array) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/kartavyamantri/DSA-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,8 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kartavyamantri/DSA-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/kartavyamantri/DSA-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kartavyamantri/DSA-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/kartavyamantri/DSA-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
+## String
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/kartavyamantri/DSA-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
