@@ -1,29 +1,46 @@
 class Solution {
     public int secondMinimum(int n, int[][] edges, int time, int change) {
-        Map<Integer, List<Integer>> g = new HashMap();
-        for(int[] e : edges) {
-            int u  = e[0], v = e[1];
-            g.computeIfAbsent(u, x -> new ArrayList()).add(v);
-            g.computeIfAbsent(v, x -> new ArrayList()).add(u);
+        List<List<Integer>> adj = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            adj.add(new ArrayList<>());
         }
-        PriorityQueue<int[]> q = new PriorityQueue<>((a,b) -> a[1] - b[1]);
-        q.offer(new int[]{1, 0});
-        int[] uniqueVisit = new int[n+1]; 
-        int[] dis = new int[n+1];
-        Arrays.fill(dis, -1);
-        while(!q.isEmpty()) {
-            int size = q.size();
-            int[] cur = q.poll();
-            int node = cur[0], t = cur[1];  
-            if(dis[node] == t || uniqueVisit[node] >= 2) continue; 
-            uniqueVisit[node]++; 
-            dis[node] = t;
-            if(node == n && uniqueVisit[node] == 2) return dis[node];
-            if((t / change) % 2 != 0) t = (t/change + 1) * change;
-            for(int nei : g.getOrDefault(node, new ArrayList<>())) {
-                q.offer(new int[]{nei, t + time});
+        for (int[] edge : edges) {
+            int u = edge[0] - 1;
+            int v = edge[1] - 1;
+            adj.get(u).add(v);
+            adj.get(v).add(u);
+        }
+
+        int[][] dist = new int[n][2];
+        for (int[] d : dist) {
+            Arrays.fill(d, Integer.MAX_VALUE);
+        }
+        Queue<int[]> queue = new LinkedList<>();
+        queue.add(new int[]{0, 0});
+        dist[0][0] = 0;
+
+        while (!queue.isEmpty()) {
+            int[] curr = queue.poll();
+            int currTime = curr[0];
+            int node = curr[1];
+
+            for (int adjNode : adj.get(node)) {
+                int waitingTime = 0;
+                if ((currTime / change) % 2 == 1) {
+                    waitingTime = change - (currTime % change);
+                }
+                int newTime = time + currTime + waitingTime;
+
+                if (dist[adjNode][0] > newTime) {
+                    dist[adjNode][1] = dist[adjNode][0];
+                    dist[adjNode][0] = newTime;
+                    queue.add(new int[]{newTime, adjNode});
+                } else if (dist[adjNode][1] > newTime && dist[adjNode][0] < newTime) {
+                    dist[adjNode][1] = newTime;
+                    queue.add(new int[]{newTime, adjNode});
+                }
             }
         }
-        return -1;
+        return dist[n - 1][1];
     }
 }
