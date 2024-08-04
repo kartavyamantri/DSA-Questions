@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/kartavyamantri/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/kartavyamantri/DSA-Questions/tree/master/0493-reverse-pairs) |
+| [0792-binary-search](https://github.com/kartavyamantri/DSA-Questions/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/kartavyamantri/DSA-Questions/tree/master/1196-filling-bookcase-shelves) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kartavyamantri/DSA-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/kartavyamantri/DSA-Questions/tree/master/0493-reverse-pairs) |
+| [0792-binary-search](https://github.com/kartavyamantri/DSA-Questions/tree/master/0792-binary-search) |
 ## Binary Indexed Tree
 |  |
 | ------- |
