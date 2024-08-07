@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/kartavyamantri/DSA-Questions/tree/master/0273-integer-to-english-words) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/kartavyamantri/DSA-Questions/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kartavyamantri/DSA-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -118,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartavyamantri/DSA-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Math
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/kartavyamantri/DSA-Questions/tree/master/0273-integer-to-english-words) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/kartavyamantri/DSA-Questions/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
