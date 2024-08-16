@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kartavyamantri/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kartavyamantri/DSA-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/kartavyamantri/DSA-Questions/tree/master/0273-integer-to-english-words) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kartavyamantri/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
