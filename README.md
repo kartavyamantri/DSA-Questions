@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartavyamantri/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kartavyamantri/DSA-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kartavyamantri/DSA-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
@@ -132,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartavyamantri/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kartavyamantri/DSA-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
