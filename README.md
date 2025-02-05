@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kartavyamantri/DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kartavyamantri/DSA-Questions/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/kartavyamantri/DSA-Questions/tree/master/0278-first-bad-version) |
 | [0493-reverse-pairs](https://github.com/kartavyamantri/DSA-Questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/kartavyamantri/DSA-Questions/tree/master/0792-binary-search) |
@@ -165,5 +166,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/kartavyamantri/DSA-Questions/tree/master/0278-first-bad-version) |
 | [1185-find-in-mountain-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
