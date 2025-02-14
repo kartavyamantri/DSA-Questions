@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/1185-find-in-mountain-array) |
 | [1196-filling-bookcase-shelves](https://github.com/kartavyamantri/DSA-Questions/tree/master/1196-filling-bookcase-shelves) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kartavyamantri/DSA-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1477-product-of-the-last-k-numbers](https://github.com/kartavyamantri/DSA-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kartavyamantri/DSA-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kartavyamantri/DSA-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kartavyamantri/DSA-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kartavyamantri/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/kartavyamantri/DSA-Questions/tree/master/0069-sqrtx) |
 | [0273-integer-to-english-words](https://github.com/kartavyamantri/DSA-Questions/tree/master/0273-integer-to-english-words) |
+| [1477-product-of-the-last-k-numbers](https://github.com/kartavyamantri/DSA-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -183,4 +185,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/kartavyamantri/DSA-Questions/tree/master/3447-clear-digits) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/kartavyamantri/DSA-Questions/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/kartavyamantri/DSA-Questions/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/kartavyamantri/DSA-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
