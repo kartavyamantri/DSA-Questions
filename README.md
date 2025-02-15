@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kartavyamantri/DSA-Questions/tree/master/0069-sqrtx) |
 | [0273-integer-to-english-words](https://github.com/kartavyamantri/DSA-Questions/tree/master/0273-integer-to-english-words) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kartavyamantri/DSA-Questions/tree/master/1477-product-of-the-last-k-numbers) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/kartavyamantri/DSA-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -203,4 +204,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartavyamantri/DSA-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/kartavyamantri/DSA-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
