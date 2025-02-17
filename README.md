@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/0948-sort-an-array) |
+| [1160-letter-tile-possibilities](https://github.com/kartavyamantri/DSA-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kartavyamantri/DSA-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartavyamantri/DSA-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartavyamantri/DSA-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0273-integer-to-english-words](https://github.com/kartavyamantri/DSA-Questions/tree/master/0273-integer-to-english-words) |
+| [1160-letter-tile-possibilities](https://github.com/kartavyamantri/DSA-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kartavyamantri/DSA-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/kartavyamantri/DSA-Questions/tree/master/2727-number-of-senior-citizens) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartavyamantri/DSA-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1160-letter-tile-possibilities](https://github.com/kartavyamantri/DSA-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kartavyamantri/DSA-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kartavyamantri/DSA-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartavyamantri/DSA-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1160-letter-tile-possibilities](https://github.com/kartavyamantri/DSA-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/kartavyamantri/DSA-Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kartavyamantri/DSA-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
