@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/kartavyamantri/DSA-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kartavyamantri/DSA-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/kartavyamantri/DSA-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2727-number-of-senior-citizens](https://github.com/kartavyamantri/DSA-Questions/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kartavyamantri/DSA-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartavyamantri/DSA-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/kartavyamantri/DSA-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartavyamantri/DSA-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/kartavyamantri/DSA-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/kartavyamantri/DSA-Questions/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -210,5 +213,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartavyamantri/DSA-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1160-letter-tile-possibilities](https://github.com/kartavyamantri/DSA-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/kartavyamantri/DSA-Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/kartavyamantri/DSA-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kartavyamantri/DSA-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
