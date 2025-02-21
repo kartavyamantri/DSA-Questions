@@ -232,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kartavyamantri/DSA-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/kartavyamantri/DSA-Questions/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
