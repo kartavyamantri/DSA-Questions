@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kartavyamantri/DSA-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/kartavyamantri/DSA-Questions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kartavyamantri/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kartavyamantri/DSA-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartavyamantri/DSA-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kartavyamantri/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1160-letter-tile-possibilities](https://github.com/kartavyamantri/DSA-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kartavyamantri/DSA-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kartavyamantri/DSA-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/kartavyamantri/DSA-Questions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kartavyamantri/DSA-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/kartavyamantri/DSA-Questions/tree/master/0086-partition-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kartavyamantri/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Interactive
 |  |
 | ------- |
