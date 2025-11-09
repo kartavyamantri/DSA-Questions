@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kartavyamantri/DSA-Questions/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/kartavyamantri/DSA-Questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/kartavyamantri/DSA-Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/kartavyamantri/DSA-Questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/kartavyamantri/DSA-Questions/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/0948-sort-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/kartavyamantri/DSA-Questions/tree/master/0278-first-bad-version) |
 | [0493-reverse-pairs](https://github.com/kartavyamantri/DSA-Questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/kartavyamantri/DSA-Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/kartavyamantri/DSA-Questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/kartavyamantri/DSA-Questions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kartavyamantri/DSA-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
