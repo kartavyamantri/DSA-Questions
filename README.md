@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kartavyamantri/DSA-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/1185-find-in-mountain-array) |
 | [1196-filling-bookcase-shelves](https://github.com/kartavyamantri/DSA-Questions/tree/master/1196-filling-bookcase-shelves) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/kartavyamantri/DSA-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kartavyamantri/DSA-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kartavyamantri/DSA-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kartavyamantri/DSA-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0948-sort-an-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/0948-sort-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/kartavyamantri/DSA-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kartavyamantri/DSA-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kartavyamantri/DSA-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kartavyamantri/DSA-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/kartavyamantri/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [1196-filling-bookcase-shelves](https://github.com/kartavyamantri/DSA-Questions/tree/master/1196-filling-bookcase-shelves) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/kartavyamantri/DSA-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kartavyamantri/DSA-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/kartavyamantri/DSA-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1612-avoid-flood-in-the-city](https://github.com/kartavyamantri/DSA-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kartavyamantri/DSA-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartavyamantri/DSA-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
