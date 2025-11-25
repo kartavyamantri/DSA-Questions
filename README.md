@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartavyamantri/DSA-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kartavyamantri/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/kartavyamantri/DSA-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/kartavyamantri/DSA-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kartavyamantri/DSA-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kartavyamantri/DSA-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kartavyamantri/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/kartavyamantri/DSA-Questions/tree/master/0069-sqrtx) |
 | [0273-integer-to-english-words](https://github.com/kartavyamantri/DSA-Questions/tree/master/0273-integer-to-english-words) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/kartavyamantri/DSA-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kartavyamantri/DSA-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kartavyamantri/DSA-Questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kartavyamantri/DSA-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
