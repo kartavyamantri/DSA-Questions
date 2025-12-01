@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/kartavyamantri/DSA-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kartavyamantri/DSA-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/kartavyamantri/DSA-Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/kartavyamantri/DSA-Questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/kartavyamantri/DSA-Questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kartavyamantri/DSA-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/kartavyamantri/DSA-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kartavyamantri/DSA-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kartavyamantri/DSA-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/kartavyamantri/DSA-Questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kartavyamantri/DSA-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartavyamantri/DSA-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kartavyamantri/DSA-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/kartavyamantri/DSA-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kartavyamantri/DSA-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/kartavyamantri/DSA-Questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kartavyamantri/DSA-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Indexed Tree
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kartavyamantri/DSA-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1612-avoid-flood-in-the-city](https://github.com/kartavyamantri/DSA-Questions/tree/master/1612-avoid-flood-in-the-city) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/kartavyamantri/DSA-Questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kartavyamantri/DSA-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartavyamantri/DSA-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kartavyamantri/DSA-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
