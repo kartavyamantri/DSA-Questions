@@ -1,14 +1,26 @@
 class Solution {
     public int countPartitions(int[] nums) {
         int count = 0;
-        int sumB4i = 0;
+        // int sumB4i = 0;
+        // for(int i = 0; i < nums.length - 1; i++) {
+        //     sumB4i += nums[i];
+        //     int sumAfteri = 0;
+        //     for(int j = i + 1; j < nums.length; j++) {
+        //         sumAfteri += nums[j];
+        //     }
+        //     if((sumAfteri - sumB4i) % 2 == 0) count++;
+        // }
+
+        int[] prefixSum = new int[nums.length];
+        prefixSum[0] = nums[0];
+        for(int i = 1; i < nums.length; i++) prefixSum[i] = prefixSum[i - 1] + nums[i];
+
+        int last = prefixSum[nums.length - 1];
         for(int i = 0; i < nums.length - 1; i++) {
-            sumB4i += nums[i];
-            int sumAfteri = 0;
-            for(int j = i + 1; j < nums.length; j++) {
-                sumAfteri += nums[j];
-            }
-            if((sumAfteri - sumB4i) % 2 == 0) count++;
+            int sumAfteri = last - prefixSum[i];
+            int diff = sumAfteri - prefixSum[i];
+
+            if(diff % 2 == 0) count++;
         }
 
         return count;
