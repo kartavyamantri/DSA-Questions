@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kartavyamantri/DSA-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kartavyamantri/DSA-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/kartavyamantri/DSA-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/kartavyamantri/DSA-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/kartavyamantri/DSA-Questions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kartavyamantri/DSA-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Two Pointers
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/kartavyamantri/DSA-Questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kartavyamantri/DSA-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kartavyamantri/DSA-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/kartavyamantri/DSA-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/kartavyamantri/DSA-Questions/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Recursion
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/kartavyamantri/DSA-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/kartavyamantri/DSA-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/kartavyamantri/DSA-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Backtracking
 |  |
 | ------- |
