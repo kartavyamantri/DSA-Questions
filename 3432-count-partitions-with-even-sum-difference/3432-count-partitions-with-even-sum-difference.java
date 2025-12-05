@@ -11,18 +11,25 @@ class Solution {
         //     if((sumAfteri - sumB4i) % 2 == 0) count++;
         // }
 
-        int[] prefixSum = new int[nums.length];
-        prefixSum[0] = nums[0];
-        for(int i = 1; i < nums.length; i++) prefixSum[i] = prefixSum[i - 1] + nums[i];
+        // int[] prefixSum = new int[nums.length];
+        // prefixSum[0] = nums[0];
+        // for(int i = 1; i < nums.length; i++) prefixSum[i] = prefixSum[i - 1] + nums[i];
 
-        int last = prefixSum[nums.length - 1];
-        for(int i = 0; i < nums.length - 1; i++) {
-            int sumAfteri = last - prefixSum[i];
-            int diff = sumAfteri - prefixSum[i];
+        // int last = prefixSum[nums.length - 1];
+        // for(int i = 0; i < nums.length - 1; i++) {
+        //     int sumAfteri = last - prefixSum[i];
+        //     int diff = sumAfteri - prefixSum[i];
 
-            if(diff % 2 == 0) count++;
-        }
+        //     if(diff % 2 == 0) count++;
+        // }
+        // return count;
 
-        return count;
+        int sum = 0;
+        for(int n : nums) sum += n;
+
+        if(sum % 2 == 0) return nums.length - 1;
+
+        return 0;
+
     }
 }
