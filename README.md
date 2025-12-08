@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/kartavyamantri/DSA-Questions/tree/master/0273-integer-to-english-words) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kartavyamantri/DSA-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kartavyamantri/DSA-Questions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1925-count-square-sum-triples](https://github.com/kartavyamantri/DSA-Questions/tree/master/1925-count-square-sum-triples) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kartavyamantri/DSA-Questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kartavyamantri/DSA-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kartavyamantri/DSA-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -306,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3625-count-number-of-trapezoids-ii](https://github.com/kartavyamantri/DSA-Questions/tree/master/3625-count-number-of-trapezoids-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/kartavyamantri/DSA-Questions/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
