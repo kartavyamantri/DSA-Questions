@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/kartavyamantri/DSA-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kartavyamantri/DSA-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3531-count-covered-buildings](https://github.com/kartavyamantri/DSA-Questions/tree/master/3531-count-covered-buildings) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/kartavyamantri/DSA-Questions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3583-count-special-triplets](https://github.com/kartavyamantri/DSA-Questions/tree/master/3583-count-special-triplets) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/kartavyamantri/DSA-Questions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kartavyamantri/DSA-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kartavyamantri/DSA-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kartavyamantri/DSA-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/kartavyamantri/DSA-Questions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/kartavyamantri/DSA-Questions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Graph
 |  |
 | ------- |
