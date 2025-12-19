@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/kartavyamantri/DSA-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kartavyamantri/DSA-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kartavyamantri/DSA-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2092-find-all-people-with-secret](https://github.com/kartavyamantri/DSA-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/kartavyamantri/DSA-Questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kartavyamantri/DSA-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartavyamantri/DSA-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kartavyamantri/DSA-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2092-find-all-people-with-secret](https://github.com/kartavyamantri/DSA-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/kartavyamantri/DSA-Questions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kartavyamantri/DSA-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kartavyamantri/DSA-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2092-find-all-people-with-secret](https://github.com/kartavyamantri/DSA-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/kartavyamantri/DSA-Questions/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Sliding Window
 |  |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kartavyamantri/DSA-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kartavyamantri/DSA-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2092-find-all-people-with-secret](https://github.com/kartavyamantri/DSA-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/kartavyamantri/DSA-Questions/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
@@ -325,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/kartavyamantri/DSA-Questions/tree/master/1925-count-square-sum-triples) |
+## Union Find
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/kartavyamantri/DSA-Questions/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
