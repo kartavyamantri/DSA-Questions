@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/kartavyamantri/DSA-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kartavyamantri/DSA-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/kartavyamantri/DSA-Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2054-two-best-non-overlapping-events](https://github.com/kartavyamantri/DSA-Questions/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kartavyamantri/DSA-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/kartavyamantri/DSA-Questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/kartavyamantri/DSA-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kartavyamantri/DSA-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kartavyamantri/DSA-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2054-two-best-non-overlapping-events](https://github.com/kartavyamantri/DSA-Questions/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/kartavyamantri/DSA-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/kartavyamantri/DSA-Questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kartavyamantri/DSA-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/kartavyamantri/DSA-Questions/tree/master/0948-sort-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/kartavyamantri/DSA-Questions/tree/master/1612-avoid-flood-in-the-city) |
+| [2054-two-best-non-overlapping-events](https://github.com/kartavyamantri/DSA-Questions/tree/master/2054-two-best-non-overlapping-events) |
 ## Merge Sort
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kartavyamantri/DSA-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/kartavyamantri/DSA-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kartavyamantri/DSA-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2054-two-best-non-overlapping-events](https://github.com/kartavyamantri/DSA-Questions/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/kartavyamantri/DSA-Questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kartavyamantri/DSA-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Indexed Tree
@@ -145,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1196-filling-bookcase-shelves](https://github.com/kartavyamantri/DSA-Questions/tree/master/1196-filling-bookcase-shelves) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kartavyamantri/DSA-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kartavyamantri/DSA-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2054-two-best-non-overlapping-events](https://github.com/kartavyamantri/DSA-Questions/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kartavyamantri/DSA-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/kartavyamantri/DSA-Questions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/kartavyamantri/DSA-Questions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
